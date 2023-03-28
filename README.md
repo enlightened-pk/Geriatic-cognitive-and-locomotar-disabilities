@@ -26,13 +26,16 @@ speech as text.
 aid recollection in the future.
 • Pocket Physio - Recommends physio therapeutic exercises based on patients dis-
 ability. Includes a step counter.
-![menu![sos](https://user-images.githubusercontent.com/96734916/228276160-6ccf3653-bd8e-4644-8f5b-2a8ce65d36a2.jpg)
+
+![menu](https://user-images.githubusercontent.com/96734916/228277281-8cb8cb01-89c4-4dd5-a495-3ce1532c14f8.jpg)
+
 
 
 ![mg](https://user-images.githubusercontent.com/96734916/228275981-fa2c1df8-bc83-42f3-8f38-1c91e8575e03.jpg)
 
 ![speech](https://user-images.githubusercontent.com/96734916/228276172-02c9c54e-66e3-41a1-9f4e-2c9ffb395dd6.jpg)
-](https://user-images.githubusercontent.com/96734916/228276105-172b30b4-68a2-47da-a91f-8078132146cf.jpg)![medicine](https://user-images.githubusercontent.com/96734916/228276252-f0006790-186b-4b9f-8a75-b77514e0c18b.jpg)
-
 ![medicine](https://user-images.githubusercontent.com/96734916/228276252-f0006790-186b-4b9f-8a75-b77514e0c18b.jpg)
+
+
+![sos](https://user-images.githubusercontent.com/96734916/228277467-4f14efc1-0278-496e-acf9-073bd4348e5b.jpg)
 
